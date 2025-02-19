@@ -1,0 +1,2 @@
+# .github
+Standart GitHub repository
