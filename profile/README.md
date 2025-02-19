@@ -19,4 +19,4 @@ We welcome contributors who want to help fight cybercrime! Whether you're a secu
 
 ---
 🌐 Visit our website: [Coming Soon]  
-📧 Contact us: [info@defendnow.org](mailto:info@defendnow.org)
+📧 Contact us: [contact@defendnow.org](mailto:contact@defendnow.org)
