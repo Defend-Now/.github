@@ -19,6 +19,7 @@ We welcome contributors who want to help fight cybercrime! Whether you're a secu
 
 ### 🔗 Link
 🌐 **Our Homepage:** https://www.defendnow.org/
+
 💬 **List of our Socials:** https://www.defendnow.org/about/socials
 
 ### 📧 Contact us
