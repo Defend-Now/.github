@@ -10,13 +10,16 @@
 ## How You Can Help
 We welcome contributors who want to help fight cybercrime! Whether you're a security researcher, developer, or someone passionate about online safety, join us in our mission.
 
-📌 **Get Involved:**
+### 📌 Get Involved:
 - Report suspicious domains
 - Contribute to our tools and resources
 - Spread awareness about cybersecurity
 
 💡 *Together, we can defend the internet—one domain at a time!*
 
----
-🌐 Visit our website: [Coming Soon]  
-📧 Contact us: [contact@defendnow.org](mailto:contact@defendnow.org)
+### 🔗 Link
+**🌐 Our Homepage:** https://www.defendnow.org/
+**💬 List of our Socials:** https://www.defendnow.org/about/socials
+
+### 📧 Contact us
+You can contact us using the [contact form (https://www.defendnow.org/contact)[https://www.defendnow.org/contact] or by [email (contact@defendnow.org)](contact@defendnow.org) .
