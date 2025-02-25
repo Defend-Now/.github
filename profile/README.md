@@ -18,8 +18,8 @@ We welcome contributors who want to help fight cybercrime! Whether you're a secu
 💡 *Together, we can defend the internet—one domain at a time!*
 
 ### 🔗 Link
-**🌐 Our Homepage:** https://www.defendnow.org/
-**💬 List of our Socials:** https://www.defendnow.org/about/socials
+🌐 **Our Homepage:** https://www.defendnow.org/
+💬 **List of our Socials:** https://www.defendnow.org/about/socials
 
 ### 📧 Contact us
 You can contact us using the [contact form (https://www.defendnow.org/contact)[https://www.defendnow.org/contact] or by [email (contact@defendnow.org)](contact@defendnow.org) .
