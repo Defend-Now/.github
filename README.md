@@ -5,7 +5,6 @@
 ## What We Do
 - 🛡️ Identify and report fraudulent websites.
 - 📢 Collaborate with registrars to take malicious domains offline.
-- 🔍 Raise awareness about online security threats.
 
 ## How You Can Help
 We welcome contributors who want to help fight cybercrime! Whether you're a security researcher, developer, or someone passionate about online safety, join us in our mission.
