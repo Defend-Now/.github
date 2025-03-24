@@ -1,6 +1,6 @@
 # Welcome to Defend Now! 🚨
 
-**Defend Now** is a global non-profit organization dedicated to making the internet a safer place. Our mission is to take down phishing, scam, and malware websites by directly contacting domain registrars and service providers. 
+Defend Now is a global non-profit organization dedicated to making the internet a safer place. Our mission is to combat phishing, scam, and malware websites by proactively listing harmful domains on our DNS blacklist, while also working to take down malicious domains through cooperation with domain registrars and service providers as a supplementary measure.
 
 ## What We Do
 - 🛡️ Identify and report fraudulent websites.
